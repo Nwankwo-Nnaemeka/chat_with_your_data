@@ -1,0 +1,11 @@
+streamlit
+huggingface_hub
+openai
+chromadb
+tiktoken
+langchain
+gradio
+pyngrok
+pypdf
+InstructorEmbedding
+sentence_transformers
